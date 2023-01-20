@@ -1,2 +1,3 @@
-# Project-Template
-Just a vanilla JS boilerplate. 🍕
+# Starbucks Clone
+
+A responsive starbucks website clone. 🍕
