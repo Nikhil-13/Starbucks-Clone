@@ -69,13 +69,15 @@ header {
 }
 .hamburger {
   display: none;
+  padding: 0.7rem 0.2rem;
   cursor: pointer;
 }
 
 .bar {
-  display: block;
-  width: 30px;
   height: 4px;
+  width: 90%;
+  background-color: var(--primary-color);
+  border-radius: 2px;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   background-color: black;
@@ -331,7 +333,6 @@ footer small {
   }
   ul.active li {
     display: block;
-    transition: display 0.3s ease;
   }
   ul.active span {
     height: inherit;
